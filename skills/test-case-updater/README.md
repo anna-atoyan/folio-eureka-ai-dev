@@ -38,7 +38,7 @@ Automates bulk phrase replacement in TestRail test cases across **any FOLIO modu
 ## Folder Structure
 
 ```
-testrail-phrase-updater/
+test-case-updater/
 ├── SKILL.md                              # Main instructions (generic for all apps)
 ├── README.md                             # This file
 ├── references/
