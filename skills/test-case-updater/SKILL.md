@@ -1,5 +1,5 @@
 ---
-name: testrail-phrase-updater
+name: test-case-updater
 description: >-
   Automates bulk phrase replacement in TestRail test cases across any FOLIO module.
   Find and replace phrases, add Jira references, manage pre-release vs current versions.
